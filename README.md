@@ -18,3 +18,22 @@ The system aims to assist in identifying missing persons using **face recognitio
 - SMTP (Email Alerts)
 
 ## Project Structure
+src/ # Source code
+database/ # Stored encodings and records
+screenshots/ # Output screenshots
+requirements.txt # Dependencies
+
+
+## Sample Outputs
+- Real-time face detection and identification  
+- Automated email notification on match detection
+
+## Future Improvements
+- Improve accuracy with deep learning models
+- Web-based dashboard for users and admins
+- Secure cloud-based database integration
+
+## Disclaimer
+This project is developed for **academic and learning purposes only**.  
+No real-world deployment or sensitive personal data is included in this repository.
+
