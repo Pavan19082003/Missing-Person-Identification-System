@@ -18,10 +18,10 @@ The system aims to assist in identifying missing persons using **face recognitio
 - SMTP (Email Alerts)
 
 ## Project Structure
-src/ # Source code
-database/ # Stored encodings and records
-screenshots/ # Output screenshots
-requirements.txt # Dependencies
+-src/ # Source code
+-database/ # Stored encodings and records
+-screenshots/ # Output screenshots
+-requirements.txt # Dependencies
 
 
 ## Sample Outputs
